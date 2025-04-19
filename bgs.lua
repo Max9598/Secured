@@ -1,6 +1,6 @@
 --hii
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = 'BGS Script',
-    Text = 'sry script was mostly patched',
+    Title = 'Bgs inf',
+    Text = 'script mostly patched, wait for update',
     Duration = 5
 })
